@@ -1,86 +1,113 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Juan Jesus Chorro's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Software Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jjchorro@hotmail.com">jjchorro@hotmail.com</a> | <a href="https://www.linkedin.com/in/juan-jesus-chorro-monllor-a13a38131" target="_blank">LinkedIn</a> | <a href="https://github.com/jjchorro" target="_blank">Github</a> | Phone: <a href="tel:+34622160604">+34622160604</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Developing microservices for Europcar
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+RESTful microservice development.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+All about technologies, smartphones, tablets, wearables and freefligth macaws
 
+## Work experience
+
+`11/2019–Present`
+__*Software Engineer*__<br>
+__Europcar Mobility Group, Alicante (Spain)__
+`02/2021–Present`
+Member of the Billing & Payments team, I have contributed to build the automatic payment system for Goldcar and Europcar and it's maintenance, the maintenance of payment commission system to rentals and contribute to build statement architecture to send invoices to brokers
+This system could handle scheduled payments execution.
+Technology stack:
+- Java 17
+- Java 11
+- Spring Boot
+- Kafka
+- JDBC Connectors with Kafka
+- Groovy for integration and unit tests
+- PACT
+- JUnit
+- SQL DDBB
+- Git (Gitlab)
+- Jira for tickets
+- Confluence
+- Gradle
+
+`11/2019–02/2021`
+Member of the Document Validation team, I was contributing to build the digitalization system of documents for clients to save time on their pick up on an autonomous machine named as Key'nGO and integration with Onfido validation documents software
+Technology stack:
+- Java 11
+- AngularJS - 8
+- HTML/HTML5
+- Spring Boot
+- Onfido
+- Kafka
+- Groovy for integration and unit tests
+- Selenium for GUI tests
+- PACT
+- JUnit
+- SQL DDBB
+- Git (Bitbucket and Gitlab)
+- Jenkins
+- Jira for tickets
+- Notions for documentation
+- Gradle
+
+
+`01/2021–06/2021`
+__*Software Developer*__<br>
+__Everis Centers Group, Alicante (Spain)__
+
+Part of the Petroleums team, ICO team and Gas Natural Fenosa/naturgy.
+Tech stack:
+- Java 11
+- ASP.net
+- C#
+- PL/SQL
+- Visual Basic
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`09/2013–05/2016`
+__Web Applications Development__<br>
+__IES Doctor Balmis, Alicante (Spain)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010–2012`
+__Bachelor's degree Sciences and Technical Drawing__<br>
+__IES Mare Nostrum, Alicante (Spain)__
 
-- Sizar
+## Personal skills
 
-`1667 - death`
-__Trinity College, Cambridge__
+__Mother tongue(s)__
+Spanish
 
-- Fellow
+__Foreign languages__
+English with a fluent writing and listening level. I am improving every time speaking level.
 
+__Communitation skills__
+Working with more people with different roles, but that also were/are part 
+of an application life cycle, have made communication something crucial on a daily basis. 
+Teamwork is one of the most important things for me and this is 
+why I like to contribute to create a healthy and pleasant work environment.
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Organisational skills__
+Being part of projects with several applications, have helped me to develop my 
+organisational capabilities, teaching me how to manage time and tasks when the work load is high.
+Also being the main developer of a feature/service, also helped me to keep 
+everything under control and well documented.
 
 
 
