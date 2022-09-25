@@ -18,7 +18,6 @@ Developing microservices for Europcar
 
 API RESTful microservice development.
 
-
 ### Research interests
 
 All about technologies, smartphones, tablets, wearables and freefligth macaws
@@ -67,7 +66,7 @@ Technology stack:
 - Gradle
 
 
-`01/2021–06/2021`
+`11/2016–11/19`
 __*Software Developer*__<br>
 __Everis Centers Group, Alicante (Spain)__
 
@@ -85,7 +84,7 @@ Tech stack:
 __Web Applications Development__<br>
 __IES Doctor Balmis, Alicante (Spain)__
 
-`2010–2012`
+`2010–2013`
 __Bachelor's degree Sciences and Technical Drawing__<br>
 __IES Mare Nostrum, Alicante (Spain)__
 
@@ -95,14 +94,14 @@ __Mother tongue(s)__
 Spanish
 
 __Foreign languages__
-English with a fluent writing and listening level. I am improving every time speaking level.
+All days I read and write emails on English, so my level is fluent. I am improving every time speaking level with teammates.
 
 __Teamwork__
-Working in teams with about 30 people from different countries with different time zones and
-there has always been great communication..
+I have worked in teams with about 30 people from different countries with different time zones and
+there has always been great communication.
 
 __Manage time and deadlines__
-Every task I am assigned to perform is rated by the whole team to be done in an estimated 
+Every task I have assigned to perform is rated by the whole team to be done in an estimated 
 time and with an estimated difficulty. The experience has taught me to manage my time and
 tasks when the workload is higher but without forgetting organization and documentation.
 
