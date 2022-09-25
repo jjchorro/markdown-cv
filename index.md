@@ -2,7 +2,7 @@
 layout: cv
 title: Juan Jesus Chorro's CV
 ---
-# Isaac Newton
+# Juan Jesus Chorro
 Software Engineer.
 
 <div id="webaddress">
@@ -97,22 +97,19 @@ Spanish
 __Foreign languages__
 English with a fluent writing and listening level. I am improving every time speaking level.
 
-__Communitation skills__
-Working with more people with different roles, but that also were/are part 
-of an application life cycle, have made communication something crucial on a daily basis. 
-Teamwork is one of the most important things for me and this is 
-why I like to contribute to create a healthy and pleasant work environment.
+__Teamwork__
+Working in teams with about 30 people from different countries with different time zones and
+there has always been great communication..
 
-__Organisational skills__
-Being part of projects with several applications, have helped me to develop my 
-organisational capabilities, teaching me how to manage time and tasks when the work load is high.
-Also being the main developer of a feature/service, also helped me to keep 
-everything under control and well documented.
+__Manage time and deadlines__
+Every task I am assigned to perform is rated by the whole team to be done in an estimated 
+time and with an estimated difficulty. The experience has taught me to manage my time and
+tasks when the workload is higher but without forgetting organization and documentation.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2022 -->
 
 
