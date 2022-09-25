@@ -16,7 +16,7 @@ Developing microservices for Europcar
 
 ### Specialized in
 
-RESTful microservice development.
+API RESTful microservice development.
 
 
 ### Research interests
