@@ -44,6 +44,9 @@ Technology stack:
 - Jira for tickets
 - Confluence
 - Gradle
+- TDD
+- Karate
+- Cucumber
 
 `11/2019–02/2021`
 Member of the Document Validation team, I was contributing to build the digitalization system of documents for clients to save time on their pick up on an autonomous machine named as Key'nGO and integration with Onfido validation documents software
@@ -98,13 +101,17 @@ All days I read and write emails on English, so my level is fluent. I am improvi
 
 __Teamwork__
 I have worked in teams with about 30 people from different countries with different time zones and
-there has always been great communication.
+there has always been great communication. Also we do pair programmings with teammates almost every day
+and with people from other teams twice a week to increase our business knoledge and skills.
 
 __Manage time and deadlines__
 Every task I have assigned to perform is rated by the whole team to be done in an estimated 
 time and with an estimated difficulty. The experience has taught me to manage my time and
 tasks when the workload is higher but without forgetting organization and documentation.
 
+__Organization tasks__
+Given an acceptance criteria by business, we begin develop on TDD with QA teammates. 
+At first, we talk about tests, then QA creates tests and it will fail, so we will make it work with our code development.
 
 
 <!-- ### Footer
