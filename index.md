@@ -35,6 +35,8 @@ Technology stack:
 - Java 11
 - Spring Boot
 - Kafka
+- Docker
+- Kubernetes
 - JDBC Connectors with Kafka
 - Groovy for integration and unit tests
 - PACT
@@ -102,7 +104,7 @@ All days I read and write emails on English, so my level is fluent. I am improvi
 __Teamwork__
 I have worked in teams with about 30 people from different countries with different time zones and
 there has always been great communication. Also we do pair programmings with teammates almost every day
-and with people from other teams twice a week to increase our business knoledge and skills.
+and with people from other teams twice a week to increase our business knowledge and skills.
 
 __Manage time and deadlines__
 Every task I have assigned to perform is rated by the whole team to be done in an estimated 
