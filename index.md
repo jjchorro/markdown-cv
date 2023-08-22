@@ -24,6 +24,25 @@ All about technologies, smartphones, tablets, wearables and freefligth macaws
 
 ## Work experience
 
+`06/2023–Present`
+__*Java Backend Developer*__<br>
+__Odilo, Cartagena (Spain)__
+`06/2023–Present`
+Member of the Orion team, I have contributed to maintenance the principal Odilo website.
+Technology stack:
+- Java 17
+- GWT
+- Angular
+- SOLR
+- Docker
+- Liquibase
+- JUnit
+- SQL BBDD
+- Git (Gitlab)
+- Jira for tickets
+- Confluence
+- Gradle
+
 `11/2019–Present`
 __*Software Engineer*__<br>
 __Europcar Mobility Group, Alicante (Spain)__
