@@ -38,10 +38,10 @@ Technology stack:
 - Liquibase
 - JUnit
 - SQL BBDD
-- Git (Gitlab)
+- Bitbucket
 - Jira for tickets
 - Confluence
-- Gradle
+- Maven
 
 `11/2019–Present`
 __*Software Engineer*__<br>
