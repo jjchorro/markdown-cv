@@ -43,10 +43,10 @@ Technology stack:
 - Confluence
 - Maven
 
-`11/2019–Present`
+`11/2019–06/2023`
 __*Software Engineer*__<br>
 __Europcar Mobility Group, Alicante (Spain)__
-`02/2021–Present`
+`02/2021–06/2023`
 Member of the Billing & Payments team, I have contributed to build the automatic payment system for Goldcar and Europcar and it's maintenance, the maintenance of payment commission system to rentals and contribute to build statement architecture to send invoices to brokers
 This system could handle scheduled payments execution.
 Technology stack:
