@@ -12,7 +12,7 @@ Software Engineer.
 
 ## Currently
 
-Developing microservices for Europcar
+Software developer in Europcar
 
 ### Specialized in
 
@@ -23,6 +23,30 @@ API RESTful microservice development.
 All about technologies, smartphones, tablets, wearables and freefligth macaws
 
 ## Work experience
+
+`10/2023–Present`
+__*Software Engineer*__<br>
+__Europcar Mobility Group, Alicante (Spain)__
+`10/2023–Present`
+Member of Prepare my Rental tribe, I have contributed to build the automatic keyless system to rent cars without personal assistant in desk and online checkin process by Onfido software to validate documents from customers including notifications by Salesforce Marketing Cloud.
+Technology stack:
+- Java (21 now)
+- Spring Boot (3.4.4 now)
+- Kafka and Confluent Kafka
+- Docker
+- Kubernetes
+- Java JUnit for integration and unit tests
+- PACT
+- PostgressDB and MongoDB
+- Git (Gitlab)
+- Jira for tickets
+- Gradle
+- TDD
+- Karate
+- Cucumber
+- DDD oriented on Hexagonal structures
+- Integration with Onfido webhooks
+- Spotless 
 
 `06/2023–09/2023`
 __*Java Backend Developer*__<br>
