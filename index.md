@@ -24,10 +24,10 @@ All about technologies, smartphones, tablets, wearables and freefligth macaws
 
 ## Work experience
 
-`06/2023–Present`
+`06/2023–09/2023`
 __*Java Backend Developer*__<br>
 __Odilo, Cartagena (Spain)__
-`06/2023–Present`
+`06/2023–09/2023`
 Member of the Orion team, I have contributed to maintenance the principal Odilo website.
 Technology stack:
 - Java 17
