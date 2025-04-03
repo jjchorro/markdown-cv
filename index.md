@@ -36,17 +36,17 @@ Technology stack:
 - Docker
 - Kubernetes
 - Java JUnit for integration and unit tests
+- Karate for Api tests
+- Cucumber for Acceptance test
 - PACT
-- PostgressDB and MongoDB
+- PostgreSQL and MongoDB
 - Git (Gitlab)
 - Jira for tickets
 - Gradle
 - TDD
-- Karate
-- Cucumber
 - DDD oriented on Hexagonal structures
 - Integration with Onfido webhooks
-- Spotless 
+- Clean code with Spotless 
 
 `06/2023–09/2023`
 __*Java Backend Developer*__<br>
